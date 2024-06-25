@@ -7,11 +7,11 @@ DOMAIN-SUFFIX,1f-rc1.yhgfb-static.com
 DOMAIN-SUFFIX,vmweb-va.ciciai.com
 DOMAIN-SUFFIX,mcs-va.ciciai.com
 DOMAIN-SUFFIX,itobsnssdk.com
-IP-CIDR,23.40.243.0/24,no-resolve
 
+IP-CIDR,23.40.243.0/24,no-resolve
 IP-CIDR,34.96.106.0/24,no-resolve
 IP-CIDR,23.195.119.0/24,no-resolve
-IP-CIDR,34.107.238.0/24, no-resolve
+IP-CIDR,34.107.238.0/24,no-resolve
 IP-CIDR,23.202.34.0/24,no-resolve
 IP-CIDR,199.232.234.0/24,no-resolve
 IP-CIDR,23.59.80.0/24,no-resolve
@@ -25,9 +25,9 @@ DOMAIN-KEYWORD,ciciai
 DOMAIN-SUFFIX,oceanapi-i18n.com
 DOMAIN,audio16-normal-i18n-alisg.ciciai.com
 DOMAIN,ichannel-i18n.ciciai.com
-DOMAIN, log-applog-i18n.ciciai.com
+DOMAIN,log-applog-i18n.ciciai.com
 DOMAIN,api22-normal-i18n-alisg.ciciai.com
-DOMAIN, api19-normal-i18n-alisg.ciciai.com
+DOMAIN,api19-normal-i18n-alisg.ciciai.com
 DOMAIN,audio16-normal-i18n-alisg.ciciai.com
 DOMAIN,mssdk-i18n-sa.ciciai.com
 DOMAIN,tnc16-i18n-sg.ciciai.com
