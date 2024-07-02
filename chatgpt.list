@@ -20,3 +20,5 @@ DOMAIN-SUFFIX,bard.google.com
 # add claude
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,claude.ai
+# forefront
+DOMAIN-KEYWORD,forefront
